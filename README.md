@@ -8,9 +8,7 @@
 
 # 📝 Descrição do Projeto 
   
-Projeto de um curso de Java, https://www.udemy.com/user/nelio-alves, desenvolvido para estudos. 
-
-É uma api que permite acessar posts e comentários.
+É uma api que permite acessar posts e comentários com as operações de CRUD.
 
 ![Captura de Tela (21)](https://github.com/AnnaBea10/workshop-api/assets/108490141/eb1c8316-de08-4ef7-a6f6-9303910334da)
 
